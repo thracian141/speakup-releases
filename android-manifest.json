@@ -1,7 +1,7 @@
 {
-  "web": "2.0.22",
-  "webBundleUrl": "https://raw.githubusercontent.com/thracian141/speakup-releases/main/bundles/web-bundle-2.0.22.zip",
+  "web": "2.0.23",
+  "webBundleUrl": "https://raw.githubusercontent.com/thracian141/speakup-releases/main/bundles/web-bundle-2.0.23.zip",
   "webBundleSizeMB": 10,
   "minNativeVersion": "1.3.5",
-  "apkUrl": "https://github.com/thracian141/speakup-releases/releases/download/v2.0.22/SpeakUp-2.0.22.apk"
+  "apkUrl": "https://github.com/thracian141/speakup-releases/releases/download/v2.0.23/SpeakUp-2.0.23.apk"
 }
